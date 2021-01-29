@@ -422,12 +422,6 @@
         "url": "/api/v2/generation/6/"
     },
     "id": 601,
-    "learned_by_pokemon": [
-        {
-            "name": "xerneas",
-            "url": "/api/v2/pokemon/716/"
-        }
-    ],
     "machines": [],
     "meta": {
         "ailment": {

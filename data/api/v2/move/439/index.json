@@ -491,20 +491,6 @@
         "url": "/api/v2/generation/4/"
     },
     "id": 439,
-    "learned_by_pokemon": [
-        {
-            "name": "rhyperior",
-            "url": "/api/v2/pokemon/464/"
-        },
-        {
-            "name": "dwebble",
-            "url": "/api/v2/pokemon/557/"
-        },
-        {
-            "name": "crustle",
-            "url": "/api/v2/pokemon/558/"
-        }
-    ],
     "machines": [],
     "meta": {
         "ailment": {

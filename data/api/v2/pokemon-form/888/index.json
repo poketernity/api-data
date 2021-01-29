@@ -30,10 +30,10 @@
         "url": "/api/v2/pokemon/888/"
     },
     "sprites": {
-        "back_default": null,
+        "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/888.png",
         "back_shiny": null,
-        "front_default": null,
-        "front_shiny": null
+        "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/888.png",
+        "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/888.png"
     },
     "version_group": {
         "name": "sword-shield",

@@ -562,32 +562,6 @@
         "url": "/api/v2/generation/1/"
     },
     "id": 121,
-    "learned_by_pokemon": [
-        {
-            "name": "exeggcute",
-            "url": "/api/v2/pokemon/102/"
-        },
-        {
-            "name": "exeggutor",
-            "url": "/api/v2/pokemon/103/"
-        },
-        {
-            "name": "chansey",
-            "url": "/api/v2/pokemon/113/"
-        },
-        {
-            "name": "mew",
-            "url": "/api/v2/pokemon/151/"
-        },
-        {
-            "name": "blissey",
-            "url": "/api/v2/pokemon/242/"
-        },
-        {
-            "name": "exeggutor-alola",
-            "url": "/api/v2/pokemon/10114/"
-        }
-    ],
     "machines": [
         {
             "machine": {
@@ -656,7 +630,7 @@
                 "name": "fr",
                 "url": "/api/v2/language/5/"
             },
-            "name": "Bombe \u0152uf"
+            "name": "Bomb\u2019\u0152uf"
         },
         {
             "language": {

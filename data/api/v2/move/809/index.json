@@ -16,32 +16,10 @@
         "url": "/api/v2/generation/8/"
     },
     "id": 809,
-    "learned_by_pokemon": [],
     "machines": [],
     "meta": null,
     "name": "poltergeist",
     "names": [
-        {
-            "language": {
-                "name": "ko",
-                "url": "/api/v2/language/3/"
-            },
-            "name": "\ud3f4\ud130\uac00\uc774\uc2a4\ud2b8"
-        },
-        {
-            "language": {
-                "name": "fr",
-                "url": "/api/v2/language/5/"
-            },
-            "name": "Esprit Frappeur"
-        },
-        {
-            "language": {
-                "name": "es",
-                "url": "/api/v2/language/7/"
-            },
-            "name": "Poltergeist"
-        },
         {
             "language": {
                 "name": "en",

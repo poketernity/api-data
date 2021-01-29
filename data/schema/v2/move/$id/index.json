@@ -212,12 +212,6 @@
         "id": {
             "type": "integer"
         },
-        "learned_by_pokemon": {
-            "items": {
-                "$ref": "/schema/v2/named_api_resource.json"
-            },
-            "type": "array"
-        },
         "machines": {
             "items": {
                 "properties": {
@@ -469,7 +463,6 @@
         "flavor_text_entries",
         "generation",
         "id",
-        "learned_by_pokemon",
         "machines",
         "meta",
         "name",

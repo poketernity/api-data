@@ -16,32 +16,10 @@
         "url": "/api/v2/generation/8/"
     },
     "id": 804,
-    "learned_by_pokemon": [],
     "machines": [],
     "meta": null,
     "name": "rising-voltage",
     "names": [
-        {
-            "language": {
-                "name": "ko",
-                "url": "/api/v2/language/3/"
-            },
-            "name": "\ub77c\uc774\uc9d5\ubcfc\ud2b8"
-        },
-        {
-            "language": {
-                "name": "fr",
-                "url": "/api/v2/language/5/"
-            },
-            "name": "Monte-Tension"
-        },
-        {
-            "language": {
-                "name": "es",
-                "url": "/api/v2/language/7/"
-            },
-            "name": "Alto Voltaje"
-        },
         {
             "language": {
                 "name": "en",

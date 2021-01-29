@@ -16,32 +16,10 @@
         "url": "/api/v2/generation/8/"
     },
     "id": 813,
-    "learned_by_pokemon": [],
     "machines": [],
     "meta": null,
     "name": "triple-axel",
     "names": [
-        {
-            "language": {
-                "name": "ko",
-                "url": "/api/v2/language/3/"
-            },
-            "name": "\ud2b8\ub9ac\ud50c\uc545\uc140"
-        },
-        {
-            "language": {
-                "name": "fr",
-                "url": "/api/v2/language/5/"
-            },
-            "name": "Triple Axel"
-        },
-        {
-            "language": {
-                "name": "es",
-                "url": "/api/v2/language/7/"
-            },
-            "name": "Triple Axel"
-        },
         {
             "language": {
                 "name": "en",
